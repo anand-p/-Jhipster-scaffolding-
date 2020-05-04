@@ -1,6 +1,8 @@
 # PatientPortal
 This project contains the demonstration for the Pluralsight course on JHipster. It was generated using JHipster 4.6.2, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.6.2](https://jhipster.github.io/documentation-archive/v4.6.2).
 
+JHipster is scaffolding platform that takes an opinionated approach to making most of the decisions required for modern applications. These opinions are based on accepted industry best practices like microservices architecture with spring boot and angular along with every aspect of production-ready concerns including deployment. As a result, you can start with a production-ready application that include kick starters or features such as database schema management, application configuration, and security. Here we are developing patient portal just like member portal which enables patients to log in and check their data.
+
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
